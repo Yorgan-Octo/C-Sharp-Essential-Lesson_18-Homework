@@ -10,7 +10,7 @@ namespace Task_2
     {
         static void Main(string[] args)
         {
-
+            //продовження Task_2-dop
             BaseClass baseObj = new BaseClass();
             baseObj.PublicMethod();
             Console.ReadKey();
